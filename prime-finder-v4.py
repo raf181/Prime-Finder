@@ -1,3 +1,7 @@
+# IB student with code KKJ364
+# these was developed for the porpues of the math research project for the course of 2022-2024 of the IB
+# these was fully developed by me. 
+
 import csv
 import time
 
